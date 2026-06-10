@@ -4,7 +4,8 @@
 
 ## Задание
 
-![Uploading image.png…]()
+<img src="![Uploading image.png…]()
+" width="700">
 
 ## Описание
 
